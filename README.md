@@ -7,7 +7,6 @@ Skills here cover lab workflows such as scientific writing, paper drafting, and 
 ## Skills
 
 - [`ml-paper-writing`](./ml-paper-writing) — drafting, restructuring, and critiquing ML research papers.
-- [`summarize-recent-chats`](./summarize-recent-chats) — summarizes freshly exported LLM chat transcripts (last 5 min) from `personalWiki/labMemory/chatgpt_chats` into a `summary.md` in the current directory, steered by free-form guidance text.
 
 ## Usage
 
